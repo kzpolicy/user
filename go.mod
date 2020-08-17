@@ -5,14 +5,10 @@ go 1.14
 require (
 	github.com/friendsofgo/errors v0.9.2 // indirect
 	github.com/fsnotify/fsnotify v1.4.9 // indirect
-	github.com/gin-contrib/cors v1.3.1 // indirect
+	github.com/gin-contrib/cors v1.3.1
 	github.com/gin-gonic/gin v1.6.3
 	github.com/go-sql-driver/mysql v1.5.0
 	github.com/gofrs/uuid v3.3.0+incompatible // indirect
-	github.com/kzpolicy/user/controller v0.0.0-20200802033857-9e153e414a56
-	github.com/kzpolicy/user/middleware v0.0.0-20200802033857-9e153e414a56
-	github.com/kzpolicy/user/models v0.0.0-20200802033857-9e153e414a56 // indirect
-	github.com/kzpolicy/user/service v0.0.0-20200802033857-9e153e414a56 // indirect
 	github.com/labstack/echo v3.3.10+incompatible // indirect
 	github.com/labstack/gommon v0.3.0 // indirect
 	github.com/mitchellh/mapstructure v1.3.2 // indirect
