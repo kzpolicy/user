@@ -3,7 +3,7 @@ package service
 import (
 	"time"
 
-	// "github.com/kzpolicy/amb-todo/models"
+	// "github.com/kzpolicy/user/models"
 	"github.com/volatiletech/sqlboiler/boil"
 	"local.packages/models"
 

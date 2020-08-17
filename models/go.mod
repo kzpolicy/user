@@ -1,3 +1,3 @@
-module github.com/kzpolicy/amb-todo/models
+module github.com/kzpolicy/user/models
 
 go 1.14
